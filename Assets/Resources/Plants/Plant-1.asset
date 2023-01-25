@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6adaf5e1b53cb854ab8683cdf5a0b4de, type: 3}
+  m_Name: Plant-1
+  m_EditorClassIdentifier: 
+  PlantPrefab: {fileID: 7347063796360839056, guid: 1c01132b227ce524495369c48f1e1b97, type: 3}
+  Points: 10
+  Rarity: 5
+  StartPack: 0
+  MinRadius: 0.6
+  Radius: 1.25
+  PlantSprite: {fileID: 1958113270044461701, guid: dd361366c4384f04ea775b92953ecde1, type: 3}
+  OpenKey: Slot_Plant-1
